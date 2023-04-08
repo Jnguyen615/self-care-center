@@ -8,7 +8,6 @@ var clearButton = document.querySelector('.button2');
 messageButton.addEventListener('click', createMessage);
 clearButton.addEventListener('click', clearMessage);
 
-
 function getRandomIndex(array) {
     return Math.floor(Math.random() * array.length)
 };
@@ -26,13 +25,13 @@ function createMessage() {
         message.innerText = "Please select an affirmation or mantra!!!!!"
     } 
     clearButton.classList.remove('hidden');
-}
+};
     
-    function clearMessage() {
-        image.classList.remove('hidden');
-        message.classList.add('hidden');
-        clearButton.classList.add('hidden');
-    }
+function clearMessage() {
+    image.classList.remove('hidden');
+    message.classList.add('hidden');
+    clearButton.classList.add('hidden');
+};
     
     
     
