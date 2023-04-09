@@ -13,6 +13,8 @@ To get this app running, you need to go to https://github.com/Jnguyen615/self-ca
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 
+<img width="1131" alt="Screenshot 2023-04-09 at 10 00 42 AM" src="https://user-images.githubusercontent.com/119434450/230783924-6aafff27-a312-478e-9526-3ecea37a81bc.png">
+
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
 
